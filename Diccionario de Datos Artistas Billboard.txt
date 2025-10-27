@@ -1,0 +1,11 @@
+Diccionario de Datos:
+- title: Título de la canción
+- artist: Nombre del artista
+- mood: Ánimo o modo de la canción
+- tempo: Velocidad a la que se reproducen la canción
+- genre: Género del artista
+- artist_type: Tipo de artista
+- chart_date: Fecha de publicación de la canción
+- durationSeg: Duración de la canción en segundos
+- top: Si la canción de llegó a ser #1 del Ranking (1: Si fue, 0: No fue)
+- anioNacimiento: Año de nacimiento del artista
